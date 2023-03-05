@@ -3,7 +3,7 @@ I'm a student at the engineering school EPITA
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alexandre-bao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre bao" height="30" width="40" /></a>
-<a href="https://discord.gg/MGgvMg5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alexandre#2445" height="30" width="40" /></a>
+<a href="https://discord.gg/cmmj3Kjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alexandre#2445" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
