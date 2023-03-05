@@ -2,7 +2,7 @@
 I'm a student at the engineering school EPITA
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandre bao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre bao" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alexandre-bao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre bao" height="30" width="40" /></a>
 <a href="https://discord.gg/Alexandre#2445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alexandre#2445" height="30" width="40" /></a>
 </p>
 
